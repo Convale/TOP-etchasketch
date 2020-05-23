@@ -1,0 +1,23 @@
+#container{
+    display: grid;
+    height: 98vh;
+    width: 99vw;
+}
+
+#buttonGroup{
+    position: absolute;
+    top: 90%;
+    left: 50%;
+}
+
+#resetButton{
+    width: 60px;
+    height: 30px;
+    vertical-align: top;
+}
+
+#colorChoice{
+    width: 53px;
+    height: 26px;
+    vertical-align: top;
+}
