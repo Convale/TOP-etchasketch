@@ -14,7 +14,7 @@
   <h3 align="center">TOP - Etch A Sketch</h3>
 
   <p align="center">
-   A fun etch a sketch with 
+   A fun etch a sketch with the ability to select size of the board and pen color. Have fun!
     <br />
     <br />
     <a href="https://convale.github.io/TOP-etchasketch/">View Demo</a>
